@@ -4,11 +4,10 @@
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatemhos11)](https://github.com/hatemhos11/github-readme-stats)
   
-   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-   <p>
+
+
+
+
 - I'm currently working on **Facebook-Clone**
 
 - 🌱 I’m currently learning **Node.js , React-Native**
